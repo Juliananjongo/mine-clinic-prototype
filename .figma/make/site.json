@@ -1,0 +1,12 @@
+{
+  "title": "Mine Clinic Management System",
+  "description": "Prototype clinic management dashboard for patient records, appointments, pharmacy, and occupational health workflows.",
+  "language": "en",
+  "robots": {
+    "index": true
+  },
+  "accessibility": {
+    "addBypassLinks": true
+  }
+}
+
